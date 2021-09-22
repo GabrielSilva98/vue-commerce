@@ -68,7 +68,6 @@
                   <b-button @click="clean" variant="info" block class="mr2">Clean</b-button>
               </b-col>
               <b-col></b-col>
-              <b-col cols="4">Salvando el mestre - YT</b-col>
               <b-col></b-col>
 
               <b-col>
