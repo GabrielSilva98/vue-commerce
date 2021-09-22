@@ -1,4 +1,4 @@
-<a href="https://stupefied-einstein-f329c0.netlify.app/#/">Demo<a/>
+<a href="https://stupefied-einstein-f329c0.netlify.app/#/" target="_blank">Demo<a/>
 # vue-commerce
 
 
